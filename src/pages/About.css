@@ -1,0 +1,44 @@
+
+.wid-high{
+    width:60%;
+    height:70%;
+   
+}
+.img-round{
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.bg-image{
+    background-image: url('./creamcolor.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Specify that the background image should not be repeated */
+    min-height: 100vh;
+}
+.text-p{
+    font-size: 22px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.text-abt{
+    font-size: 26;
+    color: aliceblue;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.text-abt-summary{
+    font-size: 22px;
+    color: rgb(34, 68, 21);
+    font-family: 'Times New Roman', Times, serif;
+}
+.p-abt{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bold;
+   
+
+}

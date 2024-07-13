@@ -1,0 +1,22 @@
+.bg-image{
+    background-image: url('./creamcolor.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+}
+.h1-hi{
+    font-size: 30px;
+    color: rgba(21, 55, 68, 0.912);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+.p-book{
+    font-size: 40px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 60px;
+}

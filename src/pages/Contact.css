@@ -1,0 +1,54 @@
+.f-h1{
+    text-align: center;
+    font-size: 28;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(20, 83, 137);
+
+}
+.f-para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24;
+    color: rgb(162, 162, 42);
+    text-align: center;
+}
+.s-mediaicon {
+    list-style: none;
+    display: flex;
+    font-size: 40px;
+    gap: 20px;
+    margin-bottom: 25px;
+   justify-content: center;
+
+}
+
+.s-mediaicon li a {
+    text-align: center;
+}
+
+.s-mediaicon li:hover {
+    background-color: rgb(245, 241, 241);
+
+
+}
+
+.whtapp {
+    color: rgb(117, 196, 117)
+}
+
+.insta {
+    color: rgba(150, 40, 197);
+}
+.fb-color{
+    color: rgb(11, 116, 222);
+}
+.linkedin-color{
+    color: rgb(11, 116, 222);
+}
+.bg-image{
+    background-image: url('./darkgreen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Specify that the background image should not be repeated */
+    min-height: 100vh;
+}
