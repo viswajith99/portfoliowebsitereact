@@ -1,0 +1,24 @@
+{
+  "educationData":[
+    {
+      "qualification": "Masters",
+      "institution": "STAS College Edappally, Mg University",
+      "degree": "Msc Computer science",
+      "year": "2021 - 2023"
+    },
+    {
+      "qualification": "Degree",
+        "institution": "SSV College Airapuram, Mg University",
+        "course": "Bachelor of Science in Mathematics",
+        "year": "2017 - 2020"
+      },
+    {
+      "qualification":"Higher studies",
+      "institution": "ST JOSEPH HSS KIDANGOOR",
+      "course": "Plus Two Computer Science",
+      "year": "2015 - 2017"
+    }
+
+  ]
+}
+  

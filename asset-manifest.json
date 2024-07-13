@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfoliowebsitereact/static/css/main.17b46b24.css",
+    "main.js": "/portfoliowebsitereact/static/js/main.fb218b86.js",
+    "static/media/creamcolor.jpg": "/portfoliowebsitereact/static/media/creamcolor.233de831b6681264ce66.jpg",
+    "static/media/darkgreen.jpg": "/portfoliowebsitereact/static/media/darkgreen.8b995446558c483f9ffa.jpg",
+    "index.html": "/portfoliowebsitereact/index.html",
+    "main.17b46b24.css.map": "/portfoliowebsitereact/static/css/main.17b46b24.css.map",
+    "main.fb218b86.js.map": "/portfoliowebsitereact/static/js/main.fb218b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b46b24.css",
+    "static/js/main.fb218b86.js"
+  ]
+}
